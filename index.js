@@ -64,7 +64,7 @@ function readmePrompts() {
 };
 
 
-function writetoFile(fileName, data) {
+function writeFile(fileName, data) {
     fs.writeFile(fileName, data, "utf8", function (err) {
         if (err) {
             throw err;
@@ -72,3 +72,15 @@ function writetoFile(fileName, data) {
           console.log("You have successfully written your README file");
     });
 };
+
+
+async function getMovie() {
+    try {
+      const { movie } = await inquirer.prompt({
+        message: "Search a movie:",
+        name: "movie"
+      });
+    } catch (err) {
+    console.log(err);
+    }
+}   

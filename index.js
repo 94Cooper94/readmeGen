@@ -1,5 +1,6 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
+const generateReadme = require("./utils/generateReadme");
 
 function readmePrompts() {
     return inquirer.prompt([
@@ -61,6 +62,16 @@ function readmePrompts() {
         }
     ]);
 }
+
+
+function writeToFile(fileName, data) {
+  fs.writeFile(fileName, data, "utf8", function (err) {
+    if (err) {
+      throw err;
+    }
+    console.log("You have successfully written your README file");
+  });
+};
 
 
 async function getAnswers() {

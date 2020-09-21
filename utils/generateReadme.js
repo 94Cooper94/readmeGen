@@ -37,13 +37,3 @@ function generateReadme(answers) {
     \nView the project live thanks to GitHub Pages: ${data.url}
     \nIf you have any questions, contact the author directly at ${data.email}.`;
 }
-
-
-function writeToFile(fileName, data) {
-  fs.writeFile(fileName, data, "utf8", function (err) {
-    if (err) {
-      throw err;
-    }
-    console.log("You have successfully written your README file");
-  });
-};

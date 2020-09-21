@@ -59,7 +59,7 @@ function readmePrompts() {
         type: "input",
         message: "What command(s) is(are) required to run a test",
         name: "test",
-        }
+        },
     ]);
 }
 
@@ -74,7 +74,7 @@ function writeToFile(fileName, data) {
 };
 
 
-async function getAnswers() {
+async function init() {
   try {
     const answers = await readmePrompts();
     generateReadme(answers);
@@ -85,4 +85,4 @@ async function getAnswers() {
   }
 };
 
-getAnswers();
+init();

@@ -11,9 +11,6 @@
     - [Tests](#tests)
     - [Contributors](#contributors)
     - [Details](#details)
-      
-    ## Usage
-    Examples of how to use this program: undefined
 
     ## Installation
     Packages required to run this program are: Inquirer
@@ -29,10 +26,8 @@
   
     ## Contact
     
-![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9) 
+![Profile Image](https://github.com/94Cooper94.png?size=50) ![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9)
     
-![Profile Image](https://github.com/94Cooper94.png?size=50)
-    
-View the project live thanks to GitHub Pages:  https://94cooper94.github.io/readmeGen/ https://94cooper94.github.io/readmeGen/
+View the project live on GitHub Pages: https://94cooper94.github.io/readmeGen/
     
 If you have any questions, contact the author directly at eliteswimmer42@gmail.com OR LCAhearn94@gmail.com.

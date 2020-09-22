@@ -33,6 +33,6 @@ Cooper Ahearn - Designed & Maintained
 ![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9)
 
 View the project live thanks to ScreenCastify: 
-<iframe src="https://drive.google.com/file/d/1CQQJdtnjQpX3X1QnMhboiGmthkn2ssqb/preview" width="640" height="480"></iframe>
+[![Live Example](./media/example.PNG)](https://drive.google.com/file/d/1CQQJdtnjQpX3X1QnMhboiGmthkn2ssqb/preview "Watch a Live Example")
 
 If you have any questions, contact the author directly at LCAhearn94@gmail.com.

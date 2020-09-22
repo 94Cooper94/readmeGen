@@ -7,9 +7,10 @@ return `
 
 ## Table of Contents
 - [Description](#description)
-- [Installation](#packages)
+- [Installation](#installation)
 - [Tests](#tests)
 - [License](#license)
+- [Technology](#technology)
 - [Contributors](#contributors)
 
 ## Description
@@ -31,7 +32,8 @@ ${data.tech}
 ${data.contributer}
 
 ## Contact
-\n![Badge](${gitHub})![Profile Image](${avatar})
+\n![Profile Image](${avatar})
+\n![Badge](${gitHub})
 \nView the project live thanks to GitHub Pages: ${data.url}
 \nIf you have any questions, contact the author directly at ${data.email}.`;
 }

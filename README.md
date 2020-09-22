@@ -3,9 +3,10 @@
 
 ## Table of Contents
 - [Description](#description)
-- [Installation](#packages)
+- [Installation](#installation)
 - [Tests](#tests)
 - [License](#license)
+- [Technology](#technology)
 - [Contributors](#contributors)
 
 ## Description
@@ -28,8 +29,10 @@ Cooper Ahearn - Designed & Maintained
 
 ## Contact
 
-![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9)![Profile Image](https://github.com/94Cooper94.png?size=50)
+![Profile Image](https://github.com/94Cooper94.png?size=50)
+![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9)
 
-View the project live thanks to GitHub Pages: https://94cooper94.github.io/readmeGen/
+View the project live thanks to ScreenCastify: 
+<iframe src="https://drive.google.com/file/d/1CQQJdtnjQpX3X1QnMhboiGmthkn2ssqb/preview" width="640" height="480"></iframe>
 
 If you have any questions, contact the author directly at LCAhearn94@gmail.com.

@@ -77,7 +77,6 @@ function writeToFile(fileName, data) {
 async function init() {
   try {
     const answers = await readmePrompts();
-    generateReadme(answers);
     writeToFile("README.md", generateReadme(answers));
 
   } catch (err) {
